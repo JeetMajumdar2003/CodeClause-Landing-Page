@@ -11,12 +11,3 @@ This is a landing page for Starbucks. It is a responsive website that can be vie
 - CSS
 - JavaScript
 
-## Setup
-To run this project, install it locally using npm:
-```
-$ cd ../starbucks-landing-page
-$ npm install
-$ npm start
-```
-
-
